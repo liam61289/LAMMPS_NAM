@@ -12,8 +12,8 @@
 ------------------------------------------------------------------------- */
 
 /* ----------------------------------------------------------------------
-   Contributing authors: Paul Crozier (SNL)
-                         Carolyn Phillips (University of Michigan)
+   Contributing authors: Liam Jacques (University of Manchester)
+                         Chris Race (University of Manchester)
 ------------------------------------------------------------------------- */
 
 #include "lmptype.h"
